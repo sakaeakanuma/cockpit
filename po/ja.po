@@ -109,7 +109,7 @@ msgstr[0] "$0 時間"
 msgid ""
 "$0 is available for most operating systems. To install it, search for it in "
 "GNOME Software or run the following:"
-msgstr ""
+msgstr "GNOME ソフトウェア または以下を実行:"
 
 #: pkg/storaged/content-views.jsx:254 pkg/storaged/content-views.jsx:473
 #: pkg/storaged/details.jsx:93 pkg/storaged/details.jsx:153
@@ -137,7 +137,7 @@ msgstr[0] "$0 ヶ月"
 
 #: pkg/packagekit/updates.jsx:260
 msgid "$0 more…"
-msgstr ""
+msgstr "さらに $0..."
 
 #: pkg/selinux/setroubleshoot-view.jsx:410
 msgid "$0 occurrence"
@@ -545,7 +545,7 @@ msgstr "アクセスは拒否されました"
 
 #: pkg/users/index.html:297
 msgid "Account Expiration"
-msgstr ""
+msgstr "アカウント期限切れ"
 
 #: pkg/shell/index.html:60
 msgid "Account Settings"
@@ -852,7 +852,7 @@ msgstr "匿名: 認証されていないすべてのユーザーがイメージ�
 #: pkg/apps/index.html:23 pkg/apps/application-list.jsx:148
 #: pkg/apps/application.jsx:127
 msgid "Applications"
-msgstr ""
+msgstr "アプリケーション"
 
 #: pkg/networkmanager/index.html:620 pkg/networkmanager/index.html:644
 #: pkg/networkmanager/index.html:668 pkg/networkmanager/index.html:692
@@ -880,7 +880,7 @@ msgstr "ソリューションの適用中 ..."
 
 #: pkg/packagekit/updates.jsx:36
 msgid "Applying updates failed"
-msgstr ""
+msgstr "更新の適用に失敗しました"
 
 #: node_modules/registry-image-widgets/views/image-config.html:16
 #: pkg/subscriptions/subscriptions-view.jsx:35
@@ -1048,7 +1048,7 @@ msgstr "ブロック済み"
 #: pkg/networkmanager/interfaces.js:2398 pkg/networkmanager/interfaces.js:2410
 #: pkg/networkmanager/interfaces.js:2674
 msgid "Bond"
-msgstr "Bond"
+msgstr "ボンド"
 
 #: pkg/networkmanager/index.html:632
 msgid "Bond Settings"
@@ -1060,7 +1060,7 @@ msgstr "ブート ID"
 
 #: pkg/machines/hostvmslist.jsx:271
 msgid "Boot Order:"
-msgstr ""
+msgstr "起動順序:"
 
 #: pkg/networkmanager/interfaces.js:2404 pkg/networkmanager/interfaces.js:2416
 #: pkg/networkmanager/interfaces.js:2751
@@ -1089,7 +1089,7 @@ msgstr "破損した設定"
 
 #: pkg/packagekit/updates.jsx:329
 msgid "Bugs"
-msgstr ""
+msgstr "バグ"
 
 #: node_modules/registry-image-widgets/views/image-body.html:18
 msgid "Built"
@@ -1321,7 +1321,7 @@ msgstr "RAID デバイス $target の確認および修復"
 
 #: pkg/apps/application-list.jsx:124
 msgid "Checking for new applications"
-msgstr ""
+msgstr "新規アプリケーションの確認中"
 
 #: pkg/lib/machine-change-auth.html:71
 msgid "Checking for public keys"
@@ -1358,7 +1358,7 @@ msgstr "$target のクリーンアップ"
 #: pkg/machines/components/desktopConsole.jsx:40
 msgid ""
 "Clicking \"Launch Remote Viewer\" will download a .vv file and launch $0."
-msgstr ""
+msgstr "\"リモートビューアの起動\" をクリックすると、 .vv ファイルをダウンロードし、 $0 を起動します。"
 
 #: pkg/kubernetes/views/auth-form.html:88
 msgid "Client Certificate"
@@ -1460,7 +1460,7 @@ msgstr ""
 
 #: pkg/packagekit/updates.jsx:831
 msgid "Cockpit itself will be updated."
-msgstr ""
+msgstr "Cockpit は自身で更新を行います。"
 
 #: pkg/lib/machine-change-port.html:9
 msgid "Cockpit was unable to contact {{#strong}}{{host}}{{/strong}}."
@@ -1572,7 +1572,7 @@ msgstr ""
 
 #: pkg/systemd/services.html:130
 msgid "Condition failed"
-msgstr ""
+msgstr "状態取得失敗"
 
 #: pkg/kubernetes/views/node-add.html:24
 msgid "Configuration"
@@ -1635,7 +1635,7 @@ msgstr "接続先"
 
 #: pkg/machines/components/desktopConsole.jsx:128
 msgid "Connect with Remote Viewer"
-msgstr ""
+msgstr "リモートビューアへ接続"
 
 #: pkg/machines/components/desktopConsole.jsx:191
 msgid "Connect with any $0 viewer application."
@@ -1696,7 +1696,7 @@ msgstr "接続が失われます"
 
 #: pkg/machines/hostvmslist.jsx:410
 msgid "Console"
-msgstr ""
+msgstr "端末"
 
 #: pkg/docker/console.html:4 pkg/kubernetes/views/container-body.html:4
 #: pkg/kubernetes/views/container-page-inline.html:2
@@ -2002,7 +2002,7 @@ msgstr "現在使用中:"
 
 #: pkg/storaged/format-dialog.jsx:184 pkg/storaged/fsys-tab.jsx:126
 msgid "Custom"
-msgstr "Custom"
+msgstr "カスタム"
 
 #: pkg/storaged/format-dialog.jsx:112
 msgid "Custom (Enter filesystem type)"
@@ -2358,7 +2358,7 @@ msgstr "Docker はインストールされていないか、システムでア�
 
 #: pkg/systemd/index.html:117
 msgid "Domain"
-msgstr "Domain"
+msgstr "ドメイン"
 
 #: pkg/realmd/operation.js:158
 msgid "Domain $0 could not be contacted"
@@ -2410,7 +2410,7 @@ msgstr "レポートのダウンロード"
 
 #: pkg/machines/components/desktopConsole.jsx:46
 msgid "Download the MSI from $0"
-msgstr ""
+msgstr "MSI を $0 からダウンロード"
 
 #: pkg/packagekit/updates.jsx:60
 #, fuzzy
@@ -2572,7 +2572,7 @@ msgstr "エントリー"
 
 #: pkg/docker/containers-view.jsx:313
 msgid "Entrypoint"
-msgstr "Entrypoint"
+msgstr "エントリポイント"
 
 #: pkg/docker/index.html:518 pkg/kubernetes/views/container-body.html:26
 #: node_modules/registry-image-widgets/views/image-config.html:21
@@ -2729,7 +2729,7 @@ msgstr "ファイバーチャネル"
 
 #: pkg/machines/vmdiskstab.jsx:51
 msgid "File"
-msgstr "File"
+msgstr "ファイル"
 
 #: pkg/storaged/content-views.jsx:142
 msgid "Filesystem"
@@ -2789,7 +2789,7 @@ msgstr ""
 
 #: pkg/users/index.html:121
 msgid "Force Change"
-msgstr ""
+msgstr "変更の強制"
 
 #: pkg/docker/util.js:506
 msgid "Force Delete"
@@ -2805,7 +2805,7 @@ msgstr "シャットダウンの強制"
 
 #: pkg/users/index.html:374
 msgid "Force password change"
-msgstr ""
+msgstr "パスワード変更の強制"
 
 #: pkg/storaged/content-views.jsx:502 pkg/storaged/format-dialog.jsx:202
 #: pkg/storaged/format-dialog.jsx:280
@@ -2848,7 +2848,7 @@ msgstr "金曜日"
 
 #: node_modules/registry-image-widgets/views/image-listing.html:6
 msgid "From"
-msgstr ""
+msgstr "から"
 
 #: pkg/users/index.html:84 pkg/users/index.html:165
 msgid "Full Name"
@@ -2896,7 +2896,7 @@ msgstr "移動"
 
 #: pkg/apps/application.jsx:93
 msgid "Go to Application"
-msgstr ""
+msgstr "アプリケーションに移動"
 
 #: pkg/dashboard/index.html:46 pkg/networkmanager/index.html:51
 #: pkg/networkmanager/index.html:538 pkg/storaged/index.html:305
@@ -3013,7 +3013,7 @@ msgstr "IPv4"
 
 #: pkg/networkmanager/interfaces.js:3228
 msgid "IPv4 Settings"
-msgstr "IPv4 のセッティング"
+msgstr "IPv4 の設定"
 
 #: pkg/networkmanager/interfaces.js:2796
 msgid "IPv6"
@@ -3021,7 +3021,7 @@ msgstr "IPv6"
 
 #: pkg/networkmanager/interfaces.js:3228
 msgid "IPv6 Settings"
-msgstr "IPv6 のセッティング"
+msgstr "IPv6 の設定"
 
 #: pkg/kubernetes/scripts/volumes.js:201 pkg/kubernetes/scripts/volumes.js:866
 msgid "ISCSI"
@@ -3102,7 +3102,7 @@ msgstr "イメージ数"
 
 #: node_modules/registry-image-widgets/views/imagestream-panel.html:12
 msgid "Image stream"
-msgstr ""
+msgstr "イメージストリーム"
 
 #: pkg/docker/index.html:154
 msgid "Image:"
@@ -3188,19 +3188,19 @@ msgstr "Docker ストレージプールに関する情報は利用できませ�
 
 #: pkg/packagekit/updates.jsx:430
 msgid "Initializing..."
-msgstr ""
+msgstr "初期化中..."
 
 #: pkg/apps/application-list.jsx:87 pkg/apps/application.jsx:97
 msgid "Install"
-msgstr ""
+msgstr "インストール"
 
 #: pkg/packagekit/updates.jsx:803
 msgid "Install All Updates"
-msgstr ""
+msgstr "全ての更新をインストール"
 
 #: pkg/packagekit/updates.jsx:809
 msgid "Install Security Updates"
-msgstr ""
+msgstr "セキュリティ更新をインストール"
 
 #: pkg/selinux/setroubleshoot-view.jsx:360
 msgid "Install setroubleshoot-server to troubleshoot SELinux events."
@@ -3218,7 +3218,7 @@ msgstr "インストールされた製品"
 #: pkg/packagekit/updates.jsx:53 pkg/apps/application-list.jsx:47
 #: pkg/apps/application.jsx:55
 msgid "Installing"
-msgstr ""
+msgstr "インストール中"
 
 #: pkg/systemd/services.html:152
 msgid "Instantiate"
@@ -3267,7 +3267,7 @@ msgstr "無効な日付形式。"
 
 #: pkg/users/local.js:1161
 msgid "Invalid expiration date"
-msgstr ""
+msgstr "無効な有効期限"
 
 #: pkg/lib/credentials.js:285
 msgid "Invalid file permissions"
@@ -3283,7 +3283,7 @@ msgstr "無効なメトリック $0"
 
 #: pkg/users/local.js:1234
 msgid "Invalid number of days"
-msgstr ""
+msgstr "無効な日付の数字"
 
 #: pkg/systemd/init.js:1171
 msgid "Invalid number."
@@ -3332,7 +3332,7 @@ msgstr "ドメイン参加"
 
 #: pkg/realmd/operation.js:95
 msgid "Join a Domain"
-msgstr "ドメインの参加"
+msgstr "ドメインへの参加"
 
 #: pkg/realmd/operation.js:357
 msgid "Joining this domain is not supported"
@@ -3378,7 +3378,7 @@ msgstr "カーネル"
 
 #: pkg/kubernetes/views/node-body.html:19
 msgid "Kernel Version"
-msgstr "Kernel バージョン"
+msgstr "カーネルバージョン"
 
 #: pkg/kubernetes/views/volume-body.html:67
 msgid "Key Ring Path"
@@ -3435,7 +3435,7 @@ msgstr "最終更新日"
 
 #: pkg/packagekit/updates.jsx:199
 msgid "Last checked: $0 ago"
-msgstr ""
+msgstr "最終確認は $0 日前です"
 
 #: pkg/kubernetes/views/deploymentconfig-body.html:15
 #: pkg/kubernetes/views/details-page.html:107
@@ -3444,7 +3444,7 @@ msgstr "最新バージョン"
 
 #: pkg/machines/components/desktopConsole.jsx:131
 msgid "Launch Remote Viewer"
-msgstr ""
+msgstr "リモートビューアの起動"
 
 #: pkg/realmd/operation.js:102
 msgid "Leave"
@@ -3515,9 +3515,8 @@ msgid "Load earlier entries"
 msgstr "以前のエントリーのロード"
 
 #: pkg/packagekit/updates.jsx:37
-#, fuzzy
 msgid "Loading available updates failed"
-msgstr "利用可能な認証情報の使用"
+msgstr "利用可能な更新の適用に失敗しました"
 
 #: pkg/packagekit/updates.jsx:30
 msgid "Loading available updates, please wait..."
@@ -3554,7 +3553,7 @@ msgstr "アカウントのロック"
 
 #: pkg/users/local.js:843 pkg/users/local.js:1143
 msgid "Lock account on $0"
-msgstr ""
+msgstr "$0 のアカウントのロック"
 
 #: pkg/shell/index.html:33
 msgid "Lock to prevent privileged tasks"
@@ -3618,7 +3617,7 @@ msgstr "論理ボリューム (スナップショット)"
 #: pkg/storaged/storage-controls.jsx:210
 #, fuzzy
 msgid "Logical Volume of $0"
-msgstr "論理ボリューム"
+msgstr "$0 の論理ボリューム"
 
 #: pkg/subscriptions/subscriptions-register.jsx:140
 msgid "Login"
@@ -3865,7 +3864,7 @@ msgstr "詳細"
 
 #: pkg/packagekit/updates.jsx:273
 msgid "More information…"
-msgstr ""
+msgstr "追加情報…"
 
 #: pkg/kdump/kdump-view.jsx:104 pkg/storaged/fsys-tab.jsx:188
 #: pkg/storaged/fsys-tab.jsx:217
@@ -4037,11 +4036,11 @@ msgstr "しない"
 
 #: pkg/users/local.js:832
 msgid "Never expire password"
-msgstr ""
+msgstr "無期限のパスワードにする"
 
 #: pkg/users/index.html:306 pkg/users/index.html:345 pkg/users/local.js:840
 msgid "Never lock account"
-msgstr ""
+msgstr "アカウントをロックしない"
 
 #: pkg/kubernetes/views/project-listing.html:46
 msgid "New Group"
@@ -4142,7 +4141,7 @@ msgstr "エイリアスが指定されていません"
 
 #: pkg/apps/application-list.jsx:134
 msgid "No applications installed or available"
-msgstr ""
+msgstr "アプリケーションがインストールされていないか使用不能です"
 
 #: pkg/sosreport/index.js:111
 msgid "No archive has been created."
@@ -4196,7 +4195,7 @@ msgstr "空き領域なし"
 
 #: pkg/machines/components/graphicsConsole.jsx:32
 msgid "No graphics console is defined for this virtual machine."
-msgstr ""
+msgstr "この仮想マシンにはグラフィック端末が定義されていません。"
 
 #: pkg/kubernetes/views/project-listing.html:74
 msgid "No groups are present."
@@ -4315,11 +4314,11 @@ msgstr "このようなファイルまたはディレクトリーがありませ
 
 #: node_modules/registry-image-widgets/views/image-listing.html:73
 msgid "No tags are present."
-msgstr ""
+msgstr "タグがありません。"
 
 #: pkg/packagekit/updates.jsx:33
 msgid "No updates pending"
-msgstr ""
+msgstr "更新待ちのパッケージはありません"
 
 #: pkg/users/local.js:417
 msgid "No user name specified"
@@ -4427,7 +4426,7 @@ msgstr "同期されていません"
 
 #: node_modules/registry-image-widgets/views/image-listing.html:44
 msgid "Not yet synced"
-msgstr ""
+msgstr "まだ同期されていません"
 
 #: pkg/systemd/services.html:316
 msgid "Note"
@@ -4506,7 +4505,7 @@ msgstr "ワンタイムパスワード"
 
 #: pkg/systemd/logs.html:58
 msgid "Only Problems"
-msgstr ""
+msgstr "問題点のみ"
 
 #: pkg/systemd/init.js:1149
 msgid "Only alphabets, numbers, : , _ , . , @ , - are allowed."
@@ -4575,7 +4574,7 @@ msgstr "PD 名"
 
 #: pkg/packagekit/updates.jsx:476
 msgid "Package information"
-msgstr ""
+msgstr "パッケージ情報"
 
 #: pkg/packagekit/updates.jsx:531
 #, fuzzy
@@ -4590,7 +4589,7 @@ msgstr "Cockpit はインストールされていません"
 
 #: pkg/packagekit/updates.jsx:733
 msgid "PackageKit reported error code $0"
-msgstr ""
+msgstr "PackageKit がエラーコード $0 を返しました"
 
 #: pkg/ostree/index.html:266
 msgid "Packages"
@@ -4650,7 +4649,7 @@ msgstr "パスワード"
 
 #: pkg/users/index.html:336
 msgid "Password Expiration"
-msgstr ""
+msgstr "パスワード有効期限切れ"
 
 #: pkg/users/local.js:259
 msgid "Password is not acceptable"
@@ -4662,7 +4661,7 @@ msgstr "パスワードが弱すぎます"
 
 #: pkg/users/local.js:834
 msgid "Password must be changed"
-msgstr ""
+msgstr "パスワードの変更が必要です"
 
 #: pkg/lib/credentials.js:289
 msgid "Password not accepted"
@@ -4694,7 +4693,7 @@ msgstr "パスコスト $path_cost"
 
 #: pkg/lib/cockpit-components-file-autocomplete.jsx:232
 msgid "Path to file"
-msgstr ""
+msgstr "ファイルへのパス"
 
 #: pkg/systemd/services.html:56
 msgid "Paths"
@@ -4796,7 +4795,7 @@ msgstr "有効な名前を提供してください"
 
 #: pkg/kubernetes/scripts/dashboard.js:376
 msgid "Please provide a valid namespace."
-msgstr "有効な名前空間を提供してください"
+msgstr "有効な名前空間を提供してください。"
 
 #: pkg/kubernetes/scripts/volumes.js:640 pkg/kubernetes/scripts/volumes.js:695
 msgid "Please provide a valid path"
@@ -4828,11 +4827,11 @@ msgstr "有効なポリシーオプションを選択してください"
 
 #: pkg/users/local.js:1156
 msgid "Please specify an expiration date"
-msgstr ""
+msgstr "有効期限を指定してください"
 
 #: pkg/machines/components/graphicsConsole.jsx:41
 msgid "Please start the virtual machine to access its graphics console."
-msgstr ""
+msgstr "仮想マシンのグラフィック端末にアクセスするには、仮想マシンを起動してください。"
 
 #: pkg/docker/search.js:150
 msgid "Please try another term"
@@ -4977,15 +4976,15 @@ msgstr "特権タスクが利用できません"
 
 #: pkg/systemd/logs.html:57
 msgid "Problems, Errors"
-msgstr ""
+msgstr "問題, エラー"
 
 #: pkg/systemd/logs.html:56
 msgid "Problems, Errors, Warnings"
-msgstr ""
+msgstr "問題, エラー, 警告"
 
 #: pkg/systemd/logs.html:55
 msgid "Problems, Errors, Warnings, Notices"
-msgstr ""
+msgstr "問題, エラー, 警告, 注意"
 
 #: pkg/subscriptions/subscriptions-view.jsx:33
 msgid "Product ID"
@@ -5319,7 +5318,7 @@ msgstr "ディスクの再フォーマットおよび追加"
 
 #: pkg/packagekit/updates.jsx:32
 msgid "Refreshing package information"
-msgstr ""
+msgstr "パッケージ情報の更新中"
 
 #: src/ws/login.js:589
 msgid "Refusing to connect. Host is unknown"
@@ -5352,7 +5351,7 @@ msgstr "システムの登録"
 
 #: pkg/packagekit/updates.jsx:883
 msgid "Register…"
-msgstr ""
+msgstr "登録…"
 
 #: pkg/ostree/index.html:305
 msgid "Released"
@@ -5425,7 +5424,7 @@ msgstr "メンバーシップの削除"
 
 #: pkg/apps/application-list.jsx:51 pkg/apps/application.jsx:59
 msgid "Removing"
-msgstr ""
+msgstr "削除中"
 
 #: pkg/storaged/jobs.js:140
 msgid "Removing $target from RAID Device"
@@ -5503,7 +5502,7 @@ msgstr "レプリケーションコントローラーにより、テンプレー
 
 #: pkg/systemd/logs.js:454
 msgid "Reporter 'reporter-ureport' not found."
-msgstr ""
+msgstr "リポーターの 'reporter-ureport' が見つかりません。"
 
 #: pkg/systemd/logs.js:456
 msgid "Reporting was unsucessful. Try running `reporter-ureport -d "
@@ -5528,11 +5527,11 @@ msgstr "要求"
 
 #: pkg/users/local.js:1220
 msgid "Require password change every $0 days"
-msgstr ""
+msgstr "$0 日毎にパスワードの変更が必要です"
 
 #: pkg/users/local.js:836
 msgid "Require password change on $0"
-msgstr ""
+msgstr "$0 にはパスワードの変更が必要です"
 
 #: pkg/kubernetes/views/auth-form.html:54
 msgid "Requires Authentication"
@@ -5634,7 +5633,7 @@ msgstr "リビジョン"
 
 #: pkg/kubernetes/views/user-add-membership.html:28
 msgid "Role"
-msgstr "役職"
+msgstr "役割"
 
 #: pkg/kubernetes/views/project-body.html:21
 #: pkg/kubernetes/views/add-member-role-dialog.html:39 pkg/users/index.html:92
@@ -5793,12 +5792,12 @@ msgstr "$target を安全に削除"
 
 #: pkg/docker/containers-view.jsx:408 pkg/docker/containers-view.jsx:553
 msgid "Security"
-msgstr "Security"
+msgstr "セキュリティ"
 
 #: pkg/packagekit/updates.jsx:243
 #, fuzzy
 msgid "Security Update"
-msgstr "Security"
+msgstr "セキュリティ更新"
 
 #: pkg/shell/index.html:136 pkg/shell/simple.html:101 pkg/shell/stub.html:114
 msgid "Select"
@@ -5820,7 +5819,7 @@ msgstr "{{#strong}}{{host}}{{/strong}} と同期するユーザーを選択し�
 
 #: pkg/machines/hostvmslist.jsx:85
 msgid "Send Non-Maskable Interrupt"
-msgstr ""
+msgstr "NMI を送信"
 
 #: pkg/networkmanager/index.html:70 pkg/networkmanager/index.html:98
 #: pkg/networkmanager/index.html:116 pkg/networkmanager/index.html:557
@@ -5963,7 +5962,7 @@ msgstr "ループデバイス $target の設定"
 #: pkg/systemd/logs.html:47
 #, fuzzy
 msgid "Severity"
-msgstr "Security"
+msgstr "セキュリティ"
 
 #: pkg/kubernetes/views/volume-body.html:139
 msgid "Share Name"
@@ -6068,7 +6067,7 @@ msgstr "$0 以降"
 #: pkg/storaged/lvol-tabs.jsx:161 pkg/storaged/lvol-tabs.jsx:198
 #: pkg/storaged/part-tab.jsx:41
 msgid "Size"
-msgstr "Size"
+msgstr "サイズ"
 
 #: pkg/storaged/dialog.js:274
 msgid "Size cannot be negative"
@@ -6123,7 +6122,7 @@ msgstr "ソリューション"
 #: pkg/packagekit/updates.jsx:31
 msgid ""
 "Some other program is currently using the package manager, please wait..."
-msgstr ""
+msgstr "他のプログラムがパッケージマネージャーを使用中です。お待ちください ..."
 
 #: pkg/kubernetes/scripts/volumes.js:906
 msgid "Sorry, I don't know how to modify this volume"
@@ -6220,11 +6219,11 @@ msgstr "状態"
 
 #: pkg/subscriptions/subscriptions-view.jsx:146
 msgid "Status: $0"
-msgstr "ステータス: $0"
+msgstr "状態: $0"
 
 #: pkg/subscriptions/subscriptions-view.jsx:141
 msgid "Status: System isn't registered"
-msgstr "ステータス: システムが登録されていません"
+msgstr "状態: システムが登録されていません"
 
 #: pkg/networkmanager/index.html:497
 msgid "Sticky"
@@ -6328,11 +6327,11 @@ msgstr "$0 をオンにする"
 
 #: pkg/machines/components/graphicsConsole.jsx:60
 msgid "Switch to Desktop Viewer"
-msgstr ""
+msgstr "デスクトップビューアに切り替えます"
 
 #: pkg/machines/components/graphicsConsole.jsx:70
 msgid "Switch to In-Browser Viewer"
-msgstr ""
+msgstr "ブラウザ内ビューアに切り替えます"
 
 #: pkg/networkmanager/interfaces.js:2379
 msgid ""
@@ -6390,7 +6389,7 @@ msgstr "システム時間"
 
 #: pkg/packagekit/updates.jsx:894
 msgid "System is up to date"
-msgstr ""
+msgstr "システムは最新の状態です"
 
 #: pkg/docker/index.html:320 pkg/docker/index.html:324
 msgid "TCP"
@@ -6528,7 +6527,7 @@ msgstr "VM が一時停止しています。"
 
 #: pkg/machines/components/deleteDialog.jsx:53
 msgid "The VM is running and will be forced off before deletion."
-msgstr ""
+msgstr "実行中の VM は削除前に強制的に終了されます。"
 
 #: pkg/machines/hostvmslist.jsx:154
 msgid "The VM is running."
@@ -6540,7 +6539,7 @@ msgstr "VM はゲストの電源管理によって一時停止されています
 
 #: pkg/users/local.js:1259
 msgid "The account '$0' will be forced to change their password on next login"
-msgstr ""
+msgstr "アカウント '$0' のパスワードは次回ログイン時に変更を強制されます"
 
 #: pkg/kubernetes/scripts/nodes.js:403
 msgid "The address contains invalid characters"
@@ -6574,11 +6573,11 @@ msgstr "デプロイメント設定 '{{ target }}' が存在しません。"
 
 #: pkg/packagekit/updates.jsx:345
 msgid "The following packages were recently updated:"
-msgstr ""
+msgstr "以下のパッケージが最近更新されました:"
 
 #: pkg/packagekit/updates.jsx:344
 msgid "The following packages were updated $0:"
-msgstr ""
+msgstr "以下のパッケージが更新されました $0:"
 
 #: pkg/sosreport/index.html:51
 msgid ""
@@ -6798,21 +6797,21 @@ msgstr "このデバイスはここで管理できません。"
 msgid ""
 "This device has filesystems that are currently in use.                "
 "Proceeding will unmount all filesystems on it."
-msgstr ""
+msgstr "この装置は現在ファイルシステムに使用されています。操作を継続するとファイルシステムからアンマウントされます。"
 
 #: pkg/storaged/index.html:667
 msgid "This device is currently used for RAID devices."
-msgstr ""
+msgstr "この装置は現在 RAID に使用されています。"
 
 #: pkg/storaged/index.html:834
 msgid ""
 "This device is currently used for RAID devices.                Proceeding "
 "will remove it from its RAID devices."
-msgstr ""
+msgstr "この装置は現在RAIDに使用されています。操作を継続するとRAIDから削除されます。"
 
 #: pkg/storaged/index.html:659
 msgid "This device is currently used for volume groups."
-msgstr ""
+msgstr "このデバイスは現在ボリュームグループに使用されています。"
 
 #: pkg/storaged/index.html:825
 msgid ""
@@ -6861,7 +6860,7 @@ msgstr "このパッケージには Cockpit バージョン %s 以降が必要�
 
 #: pkg/packagekit/updates.jsx:878
 msgid "This system is not registered"
-msgstr ""
+msgstr "このシステムは登録済みです"
 
 #: pkg/tuned/dialog.js:102
 msgid "This system is using a custom profile"
@@ -6948,7 +6947,7 @@ msgstr "ヒント: 他のシステムに対して自動的に認証する場合�
 msgid ""
 "To get software updates, this system needs to be registered with Red Hat, "
 "either using the Red Hat Customer Portal or a local subscription server."
-msgstr ""
+msgstr "ソフトウェアの更新を行うには、このシステムを、Red Hatカスタマーポータルまたはローカルサブスクリプションサーバーに登録する必要があります。"
 
 #: node_modules/registry-image-widgets/views/image-pull.html:4
 msgid "To pull this image:"
@@ -6956,7 +6955,7 @@ msgstr "このイメージをプルする:"
 
 #: node_modules/registry-image-widgets/views/imagestream-push.html:4
 msgid "To push an image to this image stream:"
-msgstr ""
+msgstr "このイメージストリームをプッシュするには："
 
 #: pkg/lib/machine-change-port.html:11
 msgid ""
@@ -6970,7 +6969,7 @@ msgstr "トークン"
 
 #: pkg/lib/cockpit-components-file-autocomplete.jsx:133
 msgid "Too many files found"
-msgstr ""
+msgstr "発見されたファイルが多すぎます"
 
 #: src/base1/cockpit.js:3964
 msgid "Too much data"
@@ -7126,7 +7125,7 @@ msgstr "root アカウントの名前を変更できません"
 
 #: node_modules/registry-image-widgets/views/image-listing.html:41
 msgid "Unable to resolve"
-msgstr ""
+msgstr "解決できません"
 
 #: pkg/selinux/setroubleshoot-client.js:172
 msgid "Unable to run fix: %0"
@@ -7171,7 +7170,7 @@ msgstr "不明な ($0)"
 
 #: pkg/apps/application.jsx:83
 msgid "Unknown Application"
-msgstr ""
+msgstr "不明なアプリケーション"
 
 #: pkg/lib/machine-unknown-hostkey.html:2
 msgid "Unknown Host Key"
@@ -7241,7 +7240,7 @@ msgstr "登録解除"
 
 #: pkg/packagekit/updates.jsx:786
 msgid "Unregistered System"
-msgstr ""
+msgstr "未登録のシステム"
 
 #: pkg/subscriptions/subscriptions-view.jsx:154
 msgid "Unregistering system..."
@@ -7249,7 +7248,7 @@ msgstr "システムの登録解除中 ..."
 
 #: node_modules/registry-image-widgets/views/image-listing.html:46
 msgid "Unresolved"
-msgstr ""
+msgstr "未解決"
 
 #: src/bridge/cockpitdbussetup.c:222 src/bridge/cockpitdbussetup.c:361
 #: src/bridge/cockpitdbussetup.c:625
@@ -7293,7 +7292,7 @@ msgstr "更新"
 
 #: pkg/packagekit/updates.jsx:469
 msgid "Updated packages may require a restart to take effect."
-msgstr ""
+msgstr "パッケージの更新を有効にするにはおそらく再起動が必要です。"
 
 #: pkg/ostree/index.html:317 pkg/ostree/index.html:343
 msgid "Updates"
@@ -7301,7 +7300,7 @@ msgstr "更新"
 
 #: pkg/packagekit/updates.jsx:790
 msgid "Updates are disabled."
-msgstr ""
+msgstr "更新は無効化されています。"
 
 #: pkg/ostree/index.html:262 pkg/packagekit/updates.jsx:54
 #: pkg/subscriptions/subscriptions-view.jsx:187
@@ -7342,7 +7341,7 @@ msgstr "信頼済み GPG 鍵の使用"
 #: pkg/machines/vmdiskstab.jsx:136 pkg/storaged/fsys-tab.jsx:225
 #: pkg/storaged/swap-tab.jsx:82 pkg/systemd/host.js:1468
 msgid "Used"
-msgstr "Used"
+msgstr "使用中"
 
 #: pkg/docker/index.html:255
 msgid "Used by Containers"
@@ -7369,7 +7368,7 @@ msgstr "ユーザーパスワード"
 
 #: cockpit.appdata.xml.in.h:1
 msgid "User interface for Linux servers"
-msgstr ""
+msgstr "Linux サービスへのユーザーインターフェース"
 
 #: pkg/lib/machine-change-auth.html:18 pkg/lib/machine-sync-users.html:54
 #: src/ws/login.html:43
@@ -7416,27 +7415,27 @@ msgstr "VLAN 設定"
 
 #: pkg/machines/libvirt.es6:177
 msgid "VM FORCE OFF action failed"
-msgstr "VM FORCE OFF アクションに失敗しました"
+msgstr "VM 強制終了 アクションに失敗しました"
 
 #: pkg/machines/libvirt.es6:195
 msgid "VM FORCE REBOOT action failed"
-msgstr "VM FORCE REBOOT アクションに失敗しました"
+msgstr "VM 強制再起動 アクションに失敗しました"
 
 #: pkg/machines/libvirt.es6:186
 msgid "VM REBOOT action failed"
-msgstr "VM REBOOT アクションに失敗しました"
+msgstr "VM 再起動 アクションに失敗しました"
 
 #: pkg/machines/libvirt.es6:275
 msgid "VM SEND Non-Maskable Interrrupt action failed"
-msgstr ""
+msgstr "VM NMI 操作に失敗しました"
 
 #: pkg/machines/libvirt.es6:168
 msgid "VM SHUT DOWN action failed"
-msgstr "VM SHUT DOWN アクションに失敗しました"
+msgstr "VM 終了 アクションに失敗しました"
 
 #: pkg/machines/libvirt.es6:204
 msgid "VM START action failed"
-msgstr "VM START アクションに失敗しました"
+msgstr "VM 開始 アクションに失敗しました"
 
 #: pkg/machines/components/desktopConsole.jsx:190
 msgid "VNC"
@@ -7466,11 +7465,11 @@ msgstr "鍵の検証"
 
 #: pkg/packagekit/updates.jsx:64
 msgid "Verified"
-msgstr ""
+msgstr "確認済み"
 
 #: pkg/packagekit/updates.jsx:56
 msgid "Verifying"
-msgstr ""
+msgstr "確認中"
 
 #: pkg/ostree/index.html:303 pkg/shell/index.html:101 pkg/shell/simple.html:74
 #: pkg/shell/stub.html:79 pkg/systemd/index.html:108
@@ -7484,7 +7483,7 @@ msgstr "$target を非常に安全に削除"
 
 #: pkg/packagekit/updates.jsx:796
 msgid "View Registration Details"
-msgstr ""
+msgstr "登録の詳細を表示"
 
 #: pkg/machines/hostvmslist.jsx:472
 msgid "Virtual Machines"
@@ -7539,7 +7538,7 @@ msgstr "詳細を待機中 ..."
 
 #: pkg/apps/utils.jsx:63
 msgid "Waiting for other programs to finish using the package manager..."
-msgstr ""
+msgstr "パッケージマネージャーが実行中のプログラムの終了を待っています ..."
 
 #: pkg/kubernetes/views/pv-modify.html:24
 msgid "Warning:"
@@ -7565,7 +7564,7 @@ msgstr "日付"
 msgid ""
 "When you get disconnected, the updates will continue in the background. You "
 "can reconnect and resume watching the update progress."
-msgstr ""
+msgstr "接続を終了しても更新作業はバックグラウンドで継続します。再接続時に更新作業の進捗状況を再表示できます。"
 
 #: pkg/docker/index.html:478
 msgid "With terminal"
@@ -7648,7 +7647,7 @@ msgstr ""
 
 #: pkg/machines/components/vnc.jsx:30
 msgid "Your browser does not support iframes."
-msgstr ""
+msgstr "使用中のブラウザは iframe をサポートしていません。"
 
 #: pkg/kubernetes/views/registry-dashboard-page.html:112
 msgid ""
@@ -7660,7 +7659,7 @@ msgstr "ログイン資格情報は、コマンドラインから docker レジ�
 msgid ""
 "Your server will close the connection soon. You can reconnect after it has "
 "restarted."
-msgstr ""
+msgstr "サーバーとの接続は直ちに切断されます。再起動後に再接続できます。"
 
 #: src/base1/cockpit.js:3934
 msgid "Your session has been terminated."
@@ -7688,7 +7687,7 @@ msgstr "アクティブ"
 
 #: pkg/docker/run.js:572
 msgid "alias"
-msgstr "alias"
+msgstr "エイリアス"
 
 #: pkg/ostree/index.html:186
 msgid "at"
@@ -7710,11 +7709,11 @@ msgstr "クラッシュ"
 #: pkg/machines/helpers.es6:119
 #, fuzzy
 msgid "custom"
-msgstr "Custom"
+msgstr "カスタム"
 
 #: pkg/docker/util.js:122
 msgid "default"
-msgstr "default"
+msgstr "デフォルト"
 
 #: pkg/machines/helpers.es6:95
 msgid "disabled"
@@ -7722,7 +7721,7 @@ msgstr "無効"
 
 #: pkg/machines/helpers.es6:113 pkg/machines/helpers.es6:116
 msgid "disk"
-msgstr ""
+msgstr "ディスク"
 
 #: pkg/machines/helpers.es6:109
 msgid "dying"
@@ -7750,7 +7749,7 @@ msgstr "ssh ホスト鍵の一覧表示に失敗しました: $0"
 
 #: pkg/machines/helpers.es6:120
 msgid "host"
-msgstr ""
+msgstr "ホスト"
 
 #: pkg/storaged/index.html:133
 msgid "iSCSI Targets"
@@ -7797,7 +7796,7 @@ msgstr "なし"
 
 #: pkg/machines/libvirt.es6:433
 msgid "other"
-msgstr ""
+msgstr "その他"
 
 #: pkg/machines/helpers.es6:105
 msgid "paused"
@@ -7833,7 +7832,7 @@ msgstr "シャットオフ"
 
 #: pkg/machines/helpers.es6:106
 msgid "shutdown"
-msgstr "shutdown"
+msgstr "シャットダウン"
 
 #: pkg/selinux/setroubleshoot-view.jsx:118
 msgid "solution details"
